@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "x65types.h"
+#include "types65x.h"
 #include "addressing.c"
 
 /*
